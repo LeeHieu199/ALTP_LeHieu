@@ -1,0 +1,304 @@
+50
+Lenh dung de xoa man hinh la lenh nao sau day ?             
+1.clrscr(); 
+2.clrssr(); 
+3.clrscl(); 
+4.clrsrc();
+1  
+Lenh nao sau day nam trong thu vien conio.h ?               
+1.getch() 
+2.cin   
+3.Radom   
+4.sqrt
+1   
+Mot cay lam chang len non,...cay chum lai nen hon nui cao ? 
+1. Bon  
+2. Tam    
+3. Ba  
+4. Hai
+3 
+Cay ngay khong so..  ?                                      
+1. Chet nam  
+2. Chet dung 
+3. Chet ngoi  
+4. Song dung
+2
+Noc nha Dong Duong la dinh nao?                             
+1. Ba Den  
+2. Bitexco 
+3. Truong Son    
+4. Phanxipang
+4
+Nguoi ta thuong goi quoc gia nao la dat nuoc mat troi moc ? 
+1. Trieu Tien 
+2. Han Quoc   
+3. Nhat Ban  
+4. Dong Duong
+3
+Co bao nhieu giai thuat sap xep C++ ?                         
+1. 5   
+2. 3    
+3. 7   
+4. 1
+1  
+Dau la ten 1 nguyen to hoa hoc dau tien ?                   
+1. Nito 
+2. Natri   
+3. Liti  
+4. Hidro
+4
+Ngon nui nao cao nhat Nhat Ban  ?                           
+1. Truong Son  
+2. Everest  
+3. Phanxipang  
+4. Phu si
+4
+Co bao nhieu giai thuat tim kiem C++?                           
+1. Bon  
+2. Ba  
+3. Mot  
+4. Hai
+2
+Su khac nhau giua kich thuoc cua bien con tro int* va char* ? 
+1. 3 byte 
+2. 1 byte 
+3. Bang Nhau 
+4. 2 byte  
+2
+Tim cua con nguoi co bao nhieu ngan?                          
+1. 1 ngan 
+2. 6 ngan 
+3. 2 ngan 
+4. 4 ngan
+4
+Giao diem 3 duong trung truc cua tam giac goi la?            
+1. Truc Tam 
+2. Tam hinh binh hanh 
+3. Tam tam giac 
+4. Tam duong tron ngoai tiep 
+4
+Lien doan bong da Uc thuoc lien doan bong da nao ?         
+1. Chau Dai Duong  
+2. Chau A 
+3. Chau Au 
+4. Chau Phi
+2
+Nguoi Viet Nam dau tien bay vao vu tru ?                   
+1. Van Thanh 
+2. Pham Tuan  
+3. Hoang Xuan Vinh 
+4. Nguyen Ba Thanh 
+2
+Con so nao duoc xem la so xui xeo voi nguoi Phuong Tay  ?  
+1. 8 
+2. 4   
+3. 13   
+4. 7 
+3 
+Nam 1910 Morgan da chon con gi lam thi nghiem ve di truyen ? 
+1. Ruoi giam 
+2. Vi khuan 
+3. Muoi 
+4. Vi trung 
+1
+Dong vat nao lon nhat the gioi hien nay ?                   
+1. Khung long  
+2. Ca voi xanh 
+3. Con Nguoi  
+4. Con Voi 
+2
+Ando Momofuku la nguoi Nhat Ban da phat minh ra mon an gi rat pho bien hien nay ? 
+1. Xuc xich 
+2. Mi goi 
+3. Kim Chi 
+4. Sushi 
+2
+Nguyen to hoa hoc co nhieu va phong phu nhat trong vo trai dat ? 
+1. Da voi 
+2. Canxi 
+3. Nito  
+4. Oxy 
+4 
+Tren be mat cua la ban tu, huong Nam duoc ky hieu bang chu cai gi ? 
+1. W 
+2. E 
+3. N 
+4. S
+4
+Cay dung de tao ra socola va duoc trong nhieu o Brazil ? 
+1. capuchino 
+2. Cacao 
+3. Cafe 
+4. Che 
+2
+Nuoc ta chinh thuc lay ten Cong Hoa Xa Hoi Chu Nghia Viet Nam vao nam nao ? 
+1. 1976 
+2. 1975 
+3. 1945 
+4. 2000 
+1
+Cuu tong thong My Barack Obama da trai qua tuoi tho o dat nuoc Dong Nam A nao? 
+1. Indonesia 
+2. Thai Lan 
+3. Viet Nam 
+4. Singapore 
+1
+Cong thuc hoa hoc cua Oxi gia la gi ? 
+1. O2 
+2. O3 
+3. H2O2 
+4. H2O 
+3
+Cau Phu My - cay cau dep va hien dai nhat thanh pho Ho Chi Minh co hinh dang cua chu cai nao ? 
+1. M 
+2. T 
+3. H 
+4. L 
+3
+Khi doc Sarin co chua thanh phan nguyen to Halogen nao ? 
+1. Flo  
+2. Clo 
+3. Brom 
+4. Iot 
+1
+Cac trung tam cong nghiep lon nhat Tokyo, Kyoto, Yokohama, Nagoia, Osaka … nam tren hon dao nao trong quan dao Nhat Ban 
+1. Honsu 
+2. Shikoku 
+3. Kyusyu
+4. Hokkaido 
+1
+Tuong dai chien thang dien Bien Phu duoc dung o ngon doi nao ? 
+1. A1 
+2. B1 
+3. D1  
+4. C1  
+3
+Trong cac dan toc sau, dan toc nao co so nguoi dong nhat? 
+1. H'Mong  
+2. Khmer
+3. Tay 
+4. E DE 
+3
+Tru so cua Ban thu ky ASEAN duoc dat tai quoc gia nao sau day ? 
+1. Thai Lan 
+2. Singapore 
+3. Indonesia 
+4. Malaysia
+3  
+Ure la loai phan nao ? 
+1. Phan NPK 
+2. Phan Lan 
+3. Phan Dam  
+4. Phan Kali
+3 
+Hanh tinh nao trong He Mat Troi co chu ky tu quay quanh truc \n va do nghieng gan giong Trai dat nhat? 
+1. Sao Thuy 
+2. Sao Kim   
+3. Sao Moc 
+4. Sao Hoa 
+4 
+Chau luc nao tiep giap voi ca dai Tay Duong va An Do Duong? 
+1. Chau My  
+2. Chau Au  
+3. Chau A 
+4. Chau Phi
+4  
+Co do sao vang lan dau tien xuat hien tai cuoc khoi nghia nao? 
+1. Khoi nghia Ba To 
+2. Khoi nghia Nam Ky    
+3. Binh bien Do Luong  
+4. Khoi nghia Bac Son 
+2
+Thanh Long Bien duoc ai chon lam kinh do ?  
+1. An Duong Vuong 
+2. Ly Nam De  
+3. Ngo Quyen 
+4. Dinh Tien Hoang
+2  
+Ngay le nao sau day tinh theo am lich? 
+1. Ngay san khau Viet Nam   
+2. Ngay am nhac Viet Nam   
+3. Ngay the thao Viet Nam   
+4. Ngay van hoa cac dan toc Viet Nam
+1 
+Co quan nao cua he than kinh la trung tam cua nhung phan xa thang bang?  
+1. Tieu nao 
+2. Nao bo 
+3. Gian nao 
+4. Hanh nao 
+1
+Quoc hoi Viet Nam gia nhap AIPO (nay la AIPA) vao nam nao? 
+1. 2012  
+2. 2005 
+3. 2000  
+4. 1995 
+4
+Ngay 23/4 hang nam duoc UNESCO chon la " Ngay the gioi .... " lam gi? 
+1. Du lich 
+2. Giai tri  
+3. An uong 
+4. Doc sach
+4
+De duy tri nong do thuoc trong mau, cac thuoc chong viem Corticoid nen uong vao luc may gio vao buoi sang? 
+1. 4 gio 
+2. 8 gio 
+3. 6 gio 
+4. 10 gio 
+2
+CLB nao vo dich Champion League mua bong 2015-2016? 
+1. Manchester United 
+2. Real Madrid 
+3. Barcelona  
+4. Schalke 04
+2
+Ten tuoi cua nhac sy thien tai so-panh gan lien voi loai nhac cu nao?  
+1. Piano 
+2. Phong cam  
+3. Organ  
+4. Violon
+1
+Trang thai duoc coi la trang thai thu tu sau ran long khi ? 
+1. Metan  
+2. Plasma 
+3. Plastit  
+4. Amoniac
+2 
+Ngoi den nao cua an do la bieu tuong tinh yeu vinh cuu ? 
+1. Khajuraho 
+2. Ellora  
+3. Taj Mahal  
+4. Konark 
+3
+Ai la cha de cua thuyet tuong doi ? 
+1. Newton 
+2. AnhXtanh 
+3. Oasinhton 
+4. Dacuyn 
+2
+Loai dong vat nao co 3 tim 8 chi va mau mau xanh  ? 
+1. Su tu bien 
+2. Ca voi  
+3. Sau rom  
+4. Bach Tuoc
+4 
+Ngon nui nao duoc nhac toi trong bai tho "Que me" cua To Huu ? 
+1. Hong linh  
+2. Non Nuoc 
+3. Ngu Binh 
+4. Thien Thai
+4 
+Boi canh cua cau chuyen tinh Romeo va Juliet la thanh pho nao cua nuoc y? 
+1. Verona 
+2. Rome 
+3. Milan  
+4. Venice 
+1
+Bien nao co nong do muoi lon nhat the gioi ? 
+1. Bien Dong 
+2. Bien Do 
+3. Bien Chet 
+4. Bien Den 
+3
+
+
+
