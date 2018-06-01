@@ -1,1 +1,5 @@
-# ALTP_LeHieu
+-Tên trò chơi: Ai là triệu phú
+-Tên tác giả: Lê Văn Hiếu
+-Thời gian oàn thành:  3tuần
+-Luật chơi: Bạn có 3 sự trợ giúp và phải trả lời đúng 15 câu hỏi để dành chiến thắng
+-Hướng phát triển: Phân chia 3 mức câu hỏi. Chuyển sang thao tác bằng phím điều hướng.
